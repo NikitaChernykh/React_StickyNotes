@@ -1,4 +1,4 @@
-# React-.js-StickyNotes
+# React_StickyNotes
 An application made with react .js
 
 You can add/edit/delete notes.
